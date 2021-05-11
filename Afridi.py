@@ -71,7 +71,7 @@ id = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
- 
+ """"""
 os.system("clear")
 print  """
          ░░░░░░░░░░░░░░░░▓██████▓▓▓░░░░░░░░░░░░░░░
