@@ -49,7 +49,7 @@ def jalan(z):
 ##### LOGO  #####
 logo = """ 
 """ 
-\33[38;1mHASHMAT AFRIDI
+\33[38;1mHashmat Afridi
 \33[38;1mALoNe HaCkEr
 \33[38;1mW̳E̳ ̳A̳R̳E̳ ̳PAKISTANI
 \33[38;1mWE ARE PUHTOON
